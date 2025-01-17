@@ -1,4 +1,4 @@
-# PythonProjact_LZ
+# PythonProjact_LZ2
 
 ## Описание
 Это приложение создано в демонстрационных и образовательных целях. Оно демонстрирует один из вариантов выполнения.
@@ -19,4 +19,4 @@
 ### 1. Клонирование репозитория
 Склонируйте проект в вашу локальную среду:
 ```bash
-git clone https://github.com/Nipplexxx/PythonProject_LZ
+git clone https://github.com/Nipplexxx/PythonProject_LZ2
